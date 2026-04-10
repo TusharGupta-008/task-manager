@@ -14,7 +14,7 @@
 ### Backend
 cd backend
 npm install
-node server.js
+node index.js
 
 ### Frontend
 cd frontend
